@@ -1,0 +1,21 @@
+{
+  "bride": "Charuni",
+  "groom": "Dushyantha",
+  "displayNames": "Charuni & Dushyantha",
+  "salutation": "Dear Family & Friends",
+  "familyWording": "Together with our families",
+  "language": "en",
+  "start": "2027-05-04T09:00:00+05:30",
+  "end": "2027-05-04T15:30:00+05:30",
+  "timezone": "Asia/Colombo",
+  "venue": "Pabavee Regency",
+  "location": "Gampaha",
+  "mapUrl": "https://maps.app.goo.gl/arQkW24xeai9tE286",
+  "music": false,
+  "rsvp": false,
+  "ourStory": false,
+  "personalizedGuests": false,
+  "intro": "Silent animated supplied portrait with subtle zoom, petals, names and date",
+  "hosting": "GitHub Pages",
+  "sharing": "WhatsApp link"
+}
